@@ -12,11 +12,9 @@
 
 - In our Project the Media Query Targets  the particular viewport range.
 
-    !['Responsive Page'](./images/horizontal.png)
+    !['Responsive Page'](./images/responsive.png)
 
-    Mobile Screen :-
-
-    !['Responsive Page'](./images/vertical.png)
+  
 
 
 
